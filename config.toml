@@ -69,8 +69,8 @@ disqusShortname = ""
       url = "posts/chaos"
 
     [[params.tiles.showcase]]
-      title = "Canary Deployments"
-      subtitle = "Canary Deployments To Kubernetes Using Istio and Friends"
+      title = "אירועי הדרבי"
+      subtitle = "עעעעעעעעעעע"
       image = "canary-small.jpg"
       url = "posts/canary"
 
